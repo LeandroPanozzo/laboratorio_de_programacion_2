@@ -1,0 +1,37 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
+Escenario:
+
+Se tiene una Concesionaria de vehículos, que vende tanto Automóviles y Camionetas como Motocicletas. Estos pueden ser usados (con kilometraje recorrido) como nuevos (0 Km.)
+
+A los directivos, les interesa saber: 
+
+-	Marca.
+-	Modelo.
+-	Año.
+-	(Si es usado), si ya fue realizado mantenimiento preventivo para la venta.
+-	Color.
+-	Carrocería (o tipo de Motocicleta)
+
+Con libre criterio, a los requerimientos en el mencionado Escenario, se pide integrar:
+
+-	Organización de código mediante concepto de “Diseño vs. Negocio”
+-	Patrón de diseño JAVABean.
+-	Implementación de Interfases.
+-	Tratamiento de Excepciones (incluyendo Excepciones Propias)
+-	Tipos Enumerativos.
+-	Énfasis en la UX (interacción con el usuario, menúes con opciones, control de “data-entry”).
+-	Aplicación de Wrappers.
+-	Organización de los datos utilizando una Colección, elegida según criterios explicados en Clases.
+-	Implementación de una “Cola o Lista de espera” de vehículos usados, para ordenar su ingreso al “Taller de Revisión Mecánica”.
+-	Persistencia de datos contra un archivo físico, aplicando los criterios vistos en Clase.

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GrafoDFSNoDirigido
+comment1.params=v
+comment1.target=GrafoDFSNoDirigido(int)
+comment2.params=origen\ destino
+comment2.target=void\ agregarArista(int,\ int)
+comment3.params=
+comment3.target=void\ DFS()
+comment4.params=u\ visitado
+comment4.target=void\ DFSVisitar(int,\ boolean[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

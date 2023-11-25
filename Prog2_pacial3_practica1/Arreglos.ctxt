@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Arreglos
+comment0.text=\r\n\ Escriba\ un\ programa\ JAVA\ que,\ utilizando\ un\ Array\ de\ 75\ caracteres,\ los\ escriba\ en\ un\ archivo\ en\ la\ carpeta\ actual.\ \r\n\ Luego,\ lea\ s\u00F3lo\ los\ primeros\ 50\ caracteres\ ingresados\ y\ los\ muestre\ por\ pantalla.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

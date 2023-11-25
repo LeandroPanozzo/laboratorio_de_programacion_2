@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Gato
+comment0.text=\r\n\ Dada\ la\ Clase\ en\ c\u00F3digo\ adjunto\ en\ imagen,\ se\ pide\ (con\ libre\ criterio)\ \:\r\n-\ Sobreescriba\ el\ m\u00E9todo\ toString().\r\n-\ Sobreescriba\ el\ m\u00E9todo\ equals(),\ asumiendo\ como\ "Criterio\ de\ comparaci\u00F3n"\ el\ nombre.\r\n-\ "Normalizando"\ a\ min\u00FAsculas,\ ordene\ en\ forma\ alfab\u00E9tica\ por\ nombre\ en\ forma\ descendente.\r\n
+comment1.params=nombre\ color\ raza
+comment1.target=Gato(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getRaza()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=otroGato
+comment6.target=int\ compareTo(Gato)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

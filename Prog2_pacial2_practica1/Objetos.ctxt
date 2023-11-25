@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Objetos
+comment0.text=\ \r\nEscriba\ (con\ libre\ criterio)\ un\ programa\ JAVA\ que\ cree\ una\ Colecci\u00F3n\ de\ objetos\ String,\ \r\nla\ "pueble"\ con\ datos\ ingresados\ por\ teclado,\ y\ luego\ la\ muestre\ por\ \r\npantalla\ ordenada\ alfab\u00E9ticamente\ en\ forma\ inversa.\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

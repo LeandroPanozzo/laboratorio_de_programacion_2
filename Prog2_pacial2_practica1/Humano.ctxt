@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Humano
+comment0.text=\r\n\ Escriba\ (con\ libre\ criterio)\ un\ programa\ JAVA\ que\ dise\u00F1e\ una\ Clase\ que\ cumplimente\ el\ \r\n\ Patr\u00F3n\ JAVABean,\ con\ 2\ atributos,\ y\ sobrescriba\ (tambien\ con\ libre\ criterio)\ los\ m\u00E9todos\ \r\n\ toString(),\ equals()\ y\ hashCode().\r\n
+comment1.params=
+comment1.target=Humano()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=edad\ nombre
+comment2.target=Humano(int,\ java.lang.String)
+comment3.params=edad
+comment3.target=void\ setEdad(int)
+comment4.params=
+comment4.target=int\ getEdad()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=nombre
+comment6.target=void\ setNombre(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=int\ hashCode()
+numComments=11

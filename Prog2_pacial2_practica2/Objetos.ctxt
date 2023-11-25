@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Objetos
+comment0.text=\r\n\ Escriba\ (con\ libre\ criterio)\ un\ programa\ JAVA\ que\ dise\u00F1e\ una\ Clase\ con\ 2\ \r\n\ atributos,\ y\ serialize\ en\ un\ archivo\ la\ misma,\ pero\ incluyendo\ en\ la\ \r\n\ serializaci\u00F3n\ solo\ uno\ de\ los\ atributos.\r\n
+comment1.params=
+comment1.target=Objetos()
+comment2.params=nombre\ id
+comment2.target=Objetos(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=id
+comment6.target=void\ setId(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

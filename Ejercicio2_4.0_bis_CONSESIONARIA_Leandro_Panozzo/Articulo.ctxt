@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Articulo
+comment1.params=disp
+comment1.target=boolean\ disponible(java.lang.String)
+comment2.params=kilometraje
+comment2.target=int\ km(int)
+numComments=3

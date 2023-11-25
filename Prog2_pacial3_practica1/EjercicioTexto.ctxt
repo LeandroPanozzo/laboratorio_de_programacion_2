@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioTexto
+comment0.text=\r\n\ Escriba\ un\ programa\ JAVA\ que\ cree\ un\ archivo\ "Ejercicio1.txt"\ en\ la\ carpeta\ \r\n\ actual,\ lo\ pueble\ con\ caracteres\ v\u00EDa\ teclado,\ y\ luego\ lo\ recorra\ mostrando\ \r\n\ por\ pantalla\ su\ contenido,\ suprimiendo\ los\ espacios\ en\ blanco.\ Por\ ejemplo,\ \r\n\ si\ contiene\ \:\ ""Hello\ world\!",\ deber\u00E1\ mostrar\ \:\ "Helloworld\!"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
